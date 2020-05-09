@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header{
+    background-color:blue ;
+    height: 10vh;
+    width: auto;  
+}
+.main{
+display: flex;
+height: 80vh;
+}
+.maina{
+    display: flex;
+    flex-direction: column;
+    flex:1 ;
+}
+.a{
+    background-color:yellow ;
+    flex:1;
+}
+.b{
+background-color:red;
+flex:1;
+}
+.c{
+background-color: pink;
+flex: 2 2;
+}
+.yo{
+    height: 10vh;
+    width:auto ;
+    background-color: green;
+}
